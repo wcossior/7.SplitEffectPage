@@ -20,11 +20,17 @@ body{
 .Ps5-side{
     height: 100vh;
     width: 50vw;
-    background-color: aquamarine;
+    background-image: url('ps5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .Xbox-side{
     height: 100vh;
     width: 50vw;
-    background-color: cadetblue;
+    background-image: url('xbox.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: start;
 }
