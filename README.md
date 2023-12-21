@@ -2,7 +2,7 @@
 
 The Split Effect Page is a web application that features a split layout with images on each side. The primary focus of the project is to implement an engaging hover effect where, upon hovering over one half, it expands horizontally, causing the other half to shrink. This effect creates a visually appealing and elegant dynamic.
 
-You can check it out:[HERE](https://wcossior.github.io/7.SplitEffectPage/)
+You can check it out: [HERE](https://wcossior.github.io/7.SplitEffectPage/)
 
 ## Features
 
